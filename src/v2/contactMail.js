@@ -1,0 +1,2 @@
+import {company,services} from './content';
+export function buildContactMail(values){const service=services.find(s=>s.id===values.service);const subject=`Demande de devis — ${service?.title||'Projet MultiShift'}`;const body=`Bonjour MultiShift,\n\nNom : ${values.name}\nEmail : ${values.email}\nTéléphone : ${values.phone||'Non renseigné'}\nService : ${service?.title||'À définir'}\n\nMon projet :\n${values.message}\n`;return `mailto:${company.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`}

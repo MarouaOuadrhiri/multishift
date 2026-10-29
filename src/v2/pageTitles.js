@@ -1,0 +1,1 @@
+export const pageTitles={'/':'Architecture d’intérieur & Visualisation 3D','/services':'Nos services','/portfolio':'Portfolio — 3D vs Réalité','/methodology':'Notre méthodologie','/savoir-faire':'Notre savoir-faire','/contact':'Contact & Devis'};

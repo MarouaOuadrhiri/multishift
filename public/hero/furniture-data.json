@@ -1,0 +1,297 @@
+{
+  "canvas": {
+    "width": 1672,
+    "height": 941,
+    "aspectRatio": 1.7768331562167907
+  },
+  "emptyImage": "/hero/hero-empty.webp",
+  "furnishedImage": "/hero/hero-furnished.webp",
+  "pieces": [
+    {
+      "id": "rug",
+      "order": 1,
+      "label": "Tapis d’espace",
+      "srcWebp": "/hero/rug.webp",
+      "srcPng": "/hero/rug.png",
+      "style": {
+        "left": "5.1435%",
+        "top": "65.3560%",
+        "width": "87.4402%",
+        "height": "21.9979%",
+        "zIndex": 1
+      },
+      "pixelBox": {
+        "x": 86,
+        "y": 615,
+        "w": 1462,
+        "h": 207,
+        "z": 1
+      },
+      "animation": "reveal-up"
+    },
+    {
+      "id": "sofa",
+      "order": 2,
+      "label": "Canapé modulaire",
+      "srcWebp": "/hero/sofa.webp",
+      "srcPng": "/hero/sofa.png",
+      "style": {
+        "left": "19.4378%",
+        "top": "54.7290%",
+        "width": "55.0239%",
+        "height": "21.2540%",
+        "zIndex": 2
+      },
+      "pixelBox": {
+        "x": 325,
+        "y": 515,
+        "w": 920,
+        "h": 200,
+        "z": 2
+      },
+      "animation": "descend-settle"
+    },
+    {
+      "id": "left-side-table",
+      "order": 3,
+      "label": "Table d’appoint gauche",
+      "srcWebp": "/hero/left-side-table.webp",
+      "srcPng": "/hero/left-side-table.png",
+      "style": {
+        "left": "17.1651%",
+        "top": "62.4867%",
+        "width": "4.9043%",
+        "height": "12.5399%",
+        "zIndex": 3
+      },
+      "pixelBox": {
+        "x": 287,
+        "y": 588,
+        "w": 82,
+        "h": 118,
+        "z": 3
+      },
+      "animation": "slide-left"
+    },
+    {
+      "id": "coffee-table",
+      "order": 4,
+      "label": "Table basse noyer & pierre",
+      "srcWebp": "/hero/coffee-table.webp",
+      "srcPng": "/hero/coffee-table.png",
+      "style": {
+        "left": "41.7464%",
+        "top": "67.4814%",
+        "width": "24.6411%",
+        "height": "10.6270%",
+        "zIndex": 4
+      },
+      "pixelBox": {
+        "x": 698,
+        "y": 635,
+        "w": 412,
+        "h": 100,
+        "z": 4
+      },
+      "animation": "descend-scale"
+    },
+    {
+      "id": "lounge-chair",
+      "order": 5,
+      "label": "Fauteuil bouclé",
+      "srcWebp": "/hero/lounge-chair.webp",
+      "srcPng": "/hero/lounge-chair.png",
+      "style": {
+        "left": "66.9856%",
+        "top": "62.4867%",
+        "width": "20.3349%",
+        "height": "24.6546%",
+        "zIndex": 8
+      },
+      "pixelBox": {
+        "x": 1120,
+        "y": 588,
+        "w": 340,
+        "h": 232,
+        "z": 8
+      },
+      "animation": "slide-right"
+    },
+    {
+      "id": "right-side-table",
+      "order": 6,
+      "label": "Table marbre droite",
+      "srcWebp": "/hero/right-side-table.webp",
+      "srcPng": "/hero/right-side-table.png",
+      "style": {
+        "left": "86.4234%",
+        "top": "65.6748%",
+        "width": "5.7416%",
+        "height": "15.7279%",
+        "zIndex": 7
+      },
+      "pixelBox": {
+        "x": 1445,
+        "y": 618,
+        "w": 96,
+        "h": 148,
+        "z": 7
+      },
+      "animation": "rise-fade"
+    },
+    {
+      "id": "wooden-console",
+      "order": 7,
+      "label": "Console en bois massif",
+      "srcWebp": "/hero/wooden-console.webp",
+      "srcPng": "/hero/wooden-console.png",
+      "style": {
+        "left": "88.3971%",
+        "top": "56.1105%",
+        "width": "11.6029%",
+        "height": "12.5399%",
+        "zIndex": 2
+      },
+      "pixelBox": {
+        "x": 1478,
+        "y": 528,
+        "w": 194,
+        "h": 118,
+        "z": 2
+      },
+      "animation": "slide-right"
+    },
+    {
+      "id": "floor-lamp",
+      "order": 8,
+      "label": "Lampadaire arqué bronze",
+      "srcWebp": "/hero/floor-lamp.webp",
+      "srcPng": "/hero/floor-lamp.png",
+      "style": {
+        "left": "69.6770%",
+        "top": "39.8512%",
+        "width": "21.2321%",
+        "height": "24.4421%",
+        "zIndex": 5
+      },
+      "pixelBox": {
+        "x": 1165,
+        "y": 375,
+        "w": 355,
+        "h": 230,
+        "z": 5
+      },
+      "animation": "rise-vertical"
+    },
+    {
+      "id": "olive-tree",
+      "order": 9,
+      "label": "Olivier en pot minéral",
+      "srcWebp": "/hero/olive-tree.webp",
+      "srcPng": "/hero/olive-tree.png",
+      "style": {
+        "left": "76.8541%",
+        "top": "38.0446%",
+        "width": "8.4928%",
+        "height": "25.5048%",
+        "zIndex": 3
+      },
+      "pixelBox": {
+        "x": 1285,
+        "y": 358,
+        "w": 142,
+        "h": 240,
+        "z": 3
+      },
+      "animation": "fade-scale"
+    },
+    {
+      "id": "throw-blanket",
+      "order": 10,
+      "label": "Plaid en maille taupe",
+      "srcWebp": "/hero/throw-blanket.webp",
+      "srcPng": "/hero/throw-blanket.png",
+      "style": {
+        "left": "25.4187%",
+        "top": "62.6993%",
+        "width": "9.5694%",
+        "height": "13.8151%",
+        "zIndex": 6
+      },
+      "pixelBox": {
+        "x": 425,
+        "y": 590,
+        "w": 160,
+        "h": 130,
+        "z": 6
+      },
+      "animation": "reveal-sofa"
+    },
+    {
+      "id": "center-vase",
+      "order": 11,
+      "label": "Vase en céramique & olivier",
+      "srcWebp": "/hero/center-vase.webp",
+      "srcPng": "/hero/center-vase.png",
+      "style": {
+        "left": "49.3421%",
+        "top": "54.7290%",
+        "width": "5.7416%",
+        "height": "13.6026%",
+        "zIndex": 6
+      },
+      "pixelBox": {
+        "x": 825,
+        "y": 515,
+        "w": 96,
+        "h": 128,
+        "z": 6
+      },
+      "animation": "descend-table"
+    },
+    {
+      "id": "decorative-tray",
+      "order": 12,
+      "label": "Plateau sculpté & minéraux",
+      "srcWebp": "/hero/decorative-tray.webp",
+      "srcPng": "/hero/decorative-tray.png",
+      "style": {
+        "left": "44.9761%",
+        "top": "65.6748%",
+        "width": "7.0574%",
+        "height": "5.7386%",
+        "zIndex": 6
+      },
+      "pixelBox": {
+        "x": 752,
+        "y": 618,
+        "w": 118,
+        "h": 54,
+        "z": 6
+      },
+      "animation": "fade-table"
+    },
+    {
+      "id": "bowl-books",
+      "order": 13,
+      "label": "Ouvrages d’art & bol noir",
+      "srcWebp": "/hero/bowl-books.webp",
+      "srcPng": "/hero/bowl-books.png",
+      "style": {
+        "left": "55.9809%",
+        "top": "65.8874%",
+        "width": "6.4593%",
+        "height": "5.9511%",
+        "zIndex": 6
+      },
+      "pixelBox": {
+        "x": 936,
+        "y": 620,
+        "w": 108,
+        "h": 56,
+        "z": 6
+      },
+      "animation": "settle-books"
+    }
+  ]
+}
